@@ -1,5 +1,5 @@
 # Prueba
 
-Repo clonado desde GitHub
-Otro
-Otro mas
+Repo clonado desde GitHub \n
+Otro \n
+Otro mas \n
